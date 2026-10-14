@@ -1,0 +1,7 @@
+{
+  "name": "HireShield AI - Recruitment Threat Intelligence",
+  "description": "Multi-Modal Recruitment Threat Intelligence and Corporate Forensics Engine protecting job seekers from fraudulent offers, fake HR calls, and employment scams.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
